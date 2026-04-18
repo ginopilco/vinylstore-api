@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "The Strokes - Comedown Machine",
+      "category": "rock",
+      "price": 29.99,
+      "description": "Quinto álbum de The Strokes lanzado en 2013. Sonido synth-pop y new wave con temas como Tap Out y One Way Trigger. Una evolución madura del rock alternativo neoyorquino.",
+      "thumbnail": "/imagenes-rock/rock1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Soda Stereo - Nada Personal",
+      "category": "rock",
+      "price": 27.99,
+      "description": "Segundo álbum de la legendaria banda argentina Soda Stereo. Mezcla new wave, post-punk y pop rock. Uno de los discos más influyentes del rock en español.",
+      "thumbnail": "/imagenes-rock/rock2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Enanitos Verdes - Colección Esencial",
+      "category": "rock",
+      "price": 31.99,
+      "description": "Lo mejor de los Enanitos Verdes, banda argentina icónica del rock pop. Canciones románticas y nostálgicas que marcaron generaciones en Latinoamérica.",
+      "thumbnail": "/imagenes-rock/rock3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Red Hot Chili Peppers - Blood Sugar Sex Magik",
+      "category": "rock",
+      "price": 28.99,
+      "description": "Quinto álbum de RHCP lanzado en 1991. Fusión de funk, rock y alternativo con temas como Under the Bridge y Give It Away. Un clásico absoluto.",
+      "thumbnail": "/imagenes-rock/rock4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Guns N' Roses - Greatest Hits",
+      "category": "rock",
+      "price": 32.99,
+      "description": "La colección definitiva de Guns N' Roses con sus mayores éxitos. Welcome to the Jungle, Sweet Child O' Mine y November Rain en un solo vinilo.",
+      "thumbnail": "/imagenes-rock/rock5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Oscar Peterson Trio - Night Train",
+      "category": "jazz",
+      "price": 26.99,
+      "description": "Grabado en 1962, Night Train es uno de los álbumes más accesibles y populares del Oscar Peterson Trio. Una joya del jazz clásico.",
+      "thumbnail": "/imagenes-jazz/jazz1.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Manhattan Transfer - Vocalese",
+      "category": "jazz",
+      "price": 28.99,
+      "description": "Álbum vocal de jazz de 1985 nominado a 12 Grammy. Manhattan Transfer en su mejor momento.",
+      "thumbnail": "/imagenes-jazz/jazz2.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Miles Davis - Colección Esencial",
+      "category": "jazz",
+      "price": 30.99,
+      "description": "Lo mejor de Miles Davis, el trompetista más influyente del jazz moderno. Imprescindible en toda colección.",
+      "thumbnail": "/imagenes-jazz/jazz3.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Best of Bond - 007",
+      "category": "jazz",
+      "price": 25.99,
+      "description": "Las icónicas bandas sonoras de James Bond reunidas en vinilo. Jazz, orquesta y acción en un solo disco.",
+      "thumbnail": "/imagenes-jazz/jazz4.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Whiplash - Original Soundtrack",
+      "category": "jazz",
+      "price": 27.99,
+      "description": "Banda sonora de la película Whiplash. Jazz intenso y poderoso que acompaña una de las mejores películas sobre música.",
+      "thumbnail": "/imagenes-jazz/jazz5.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Cypress Hill - La Colección",
+      "category": "hiphop",
+      "price": 29.99,
+      "description": "Lo mejor de Cypress Hill, pioneros del hip-hop latino. Ritmos oscuros y letras contundentes en vinilo.",
+      "thumbnail": "/imagenes-hiphop/hip1.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Eric B. & Rakim - Follow the Leader",
+      "category": "hiphop",
+      "price": 31.99,
+      "description": "Álbum clásico de 1988. Eric B. & Rakim son considerados uno de los mejores dúos del hip-hop de todos los tiempos.",
+      "thumbnail": "/imagenes-hiphop/hip2.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Biggie Smalls - Colección Esencial",
+      "category": "hiphop",
+      "price": 27.99,
+      "description": "Lo mejor del Notorious B.I.G, el rapero más influyente de los 90. Letras poderosas sobre vinilo.",
+      "thumbnail": "/imagenes-hiphop/hip3.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Snoop Dogg - R&G Rhythm & Gangsta",
+      "category": "hiphop",
+      "price": 33.99,
+      "description": "Álbum de 2004 de Snoop Dogg que mezcla hip-hop y R&B. Incluye éxitos como Drop It Like It's Hot.",
+      "thumbnail": "/imagenes-hiphop/hip4.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Eminem - The Eminem Show",
+      "category": "hiphop",
+      "price": 28.99,
+      "description": "Tercer álbum de estudio de Eminem lanzado en 2002. Uno de los álbumes de rap más vendidos de la historia.",
+      "thumbnail": "/imagenes-hiphop/hip5.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Billie Eilish - Happier Than Ever",
+      "category": "pop",
+      "price": 24.99,
+      "description": "Segundo álbum de Billie Eilish lanzado en 2021. Un viaje emocional entre el pop alternativo y el indie.",
+      "thumbnail": "/imagenes-pop/pop1.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Katy Perry - Smile",
+      "category": "pop",
+      "price": 26.99,
+      "description": "Sexto álbum de Katy Perry lanzado en 2020. Pop alegre y colorido con mensajes de positividad.",
+      "thumbnail": "/imagenes-pop/pop2.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Michael Jackson - Thriller",
+      "category": "pop",
+      "price": 23.99,
+      "description": "El álbum más vendido de la historia con más de 70 millones de copias. Lanzado en 1982, un clásico eterno.",
+      "thumbnail": "/imagenes-pop/pop3.jpg"
+    },
+    {
+      "id": 19,
+      "title": "The Weeknd - Beauty Behind the Madness",
+      "category": "pop",
+      "price": 25.99,
+      "description": "Álbum de 2015 de The Weeknd que incluye Can't Feel My Face y Earned It. R&B y pop en su máxima expresión.",
+      "thumbnail": "/imagenes-pop/pop4.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Bruno Mars - XXIVK Magic",
+      "category": "pop",
+      "price": 27.99,
+      "description": "Tercer álbum de Bruno Mars lanzado en 2016. Funk, soul y pop mezclados en un disco lleno de energía.",
+      "thumbnail": "/imagenes-pop/pop5.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Mozart - Classical Music Masterpieces",
+      "category": "clasica",
+      "price": 35.99,
+      "description": "Las obras más importantes de Wolfgang Amadeus Mozart reunidas en vinilo. Sinfonías y conciertos inmortales.",
+      "thumbnail": "/imagenes-clasica/clasica1.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Vivaldi - Jahres Zeiten",
+      "category": "clasica",
+      "price": 33.99,
+      "description": "Las Cuatro Estaciones de Vivaldi en su versión más aclamada. Ganador del Grand Prix du Disque.",
+      "thumbnail": "/imagenes-clasica/clasica2.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Chopin - Piano Valldemossa",
+      "category": "clasica",
+      "price": 37.99,
+      "description": "Obras para piano de Frédéric Chopin grabadas en el histórico contexto de Valldemossa, Mallorca.",
+      "thumbnail": "/imagenes-clasica/clasica3.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Bach - Classical Music Masterpieces",
+      "category": "clasica",
+      "price": 31.99,
+      "description": "Las composiciones más célebres de Johann Sebastian Bach. Música barroca en su máxima expresión.",
+      "thumbnail": "/imagenes-clasica/clasica4.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Karajan - Symphony No. 7",
+      "category": "clasica",
+      "price": 34.99,
+      "description": "Herbert von Karajan dirige la Berliner Philharmoniker en la Sinfonía N°7. Una grabación histórica.",
+      "thumbnail": "/imagenes-clasica/clasica5.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Marshmello - Joytime",
+      "category": "electronica",
+      "price": 28.99,
+      "description": "Álbum debut de Marshmello lanzado en 2016. Future bass y electronic dance music en estado puro.",
+      "thumbnail": "/imagenes-electronica/electro1.jpg"
+    },
+    {
+      "id": 27,
+      "title": "Alan Walker - Different World",
+      "category": "electronica",
+      "price": 30.99,
+      "description": "Primer álbum de Alan Walker lanzado en 2018. Incluye éxitos mundiales como Faded y Alone.",
+      "thumbnail": "/imagenes-electronica/electro2.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Dragonette - Hello",
+      "category": "electronica",
+      "price": 26.99,
+      "description": "Single icónico de Dragonette con múltiples remixes. Electrónica bailable de alta energía en vinilo.",
+      "thumbnail": "/imagenes-electronica/electro3.jpg"
+    },
+    {
+      "id": 29,
+      "title": "David Guetta - Listen",
+      "category": "electronica",
+      "price": 32.99,
+      "description": "Séptimo álbum de David Guetta lanzado en 2014. EDM de clase mundial con colaboraciones estelares.",
+      "thumbnail": "/imagenes-electronica/electro4.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Ambient Dreams Vol. 5",
+      "category": "electronica",
+      "price": 29.99,
+      "description": "Música electrónica ambient para relajarse. Paisajes sonoros únicos grabados en vinilo de alta fidelidad.",
+      "thumbnail": "/imagenes-electronica/electro5.jpg"
+    }
+  ]
+}
