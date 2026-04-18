@@ -12,4 +12,4 @@ server.use(router)
 const PORT = process.env.PORT || 3001
 server.listen(PORT, () => {
   console.log(`JSON Server corriendo en puerto ${PORT}`)
-})
+})//ok
